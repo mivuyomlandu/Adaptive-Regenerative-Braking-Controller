@@ -1,0 +1,11 @@
+[wokwi]
+version = 1
+firmware = "Regen.ino.hex"
+elf = "Regen.ino.elf"
+
+[[wokwi.libraries]]
+name = "Adafruit GFX Library"
+[[wokwi.libraries]]
+name = "Adafruit SSD1306"
+[[wokwi.libraries]]
+name = "Adafruit BusIO"
