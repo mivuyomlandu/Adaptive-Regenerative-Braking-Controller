@@ -26,7 +26,6 @@ The biggest challenge was reading the motor's RPM accurately. The 12V motor gene
 *   `1_Hardware_Arduino/` - The C++ firmware for the Arduino UNO.
 *   `2_Simulation_Python/` - The Python physics models and PID simulation scripts.
 *   `3_Live_Dashboard/` - The Python Tkinter GUI that reads live telemetry.
-*   `4_Presentation_and_Report/` - Project documentation and diagrams.
 
 ## 🚀 How to Run
 ### 1. Hardware Firmware
