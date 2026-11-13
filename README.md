@@ -40,7 +40,7 @@ The biggest challenge was reading the motor's RPM accurately. The 12V motor gene
 3. Run the dashboard:
    ```bash
    python dashboard.py
-   
+
 ```
 ## 📸 Project Images
 
