@@ -39,3 +39,13 @@ The biggest challenge was reading the motor's RPM accurately. The 12V motor gene
 3. Run the dashboard:
    ```bash
    python dashboard.py
+<img width="602" height="255" alt="block_diagram" src="https://github.com/user-attachments/assets/9a9b3c64-3318-4666-94f4-f54d1e8c8ab1" />
+
+<img width="1600" height="1200" alt="hardware_setup" src="https://github.com/user-attachments/assets/64ea3408-b118-47e6-ba90-6009cc11d5dd" />
+
+<img width="1600" height="900" alt="dashboard_measuring" src="https://github.com/user-attachments/assets/0eb25b99-d7bc-4396-b806-5f7938f18d8e" />
+
+<img width="1600" height="900" alt="dashboard_braking" src="https://github.com/user-attachments/assets/18378363-96ea-4d9f-bb84-305f5490c34a" />
+
+
+
