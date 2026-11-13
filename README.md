@@ -39,13 +39,31 @@ The biggest challenge was reading the motor's RPM accurately. The 12V motor gene
 3. Run the dashboard:
    ```bash
    python dashboard.py
-<img width="602" height="255" alt="block_diagram" src="https://github.com/user-attachments/assets/9a9b3c64-3318-4666-94f4-f54d1e8c8ab1" />
+```
 
-<img width="1600" height="1200" alt="hardware_setup" src="https://github.com/user-attachments/assets/64ea3408-b118-47e6-ba90-6009cc11d5dd" />
+## 📸 Project Images
 
-<img width="1600" height="900" alt="dashboard_measuring" src="https://github.com/user-attachments/assets/0eb25b99-d7bc-4396-b806-5f7938f18d8e" />
+### System Architecture & Hardware
 
-<img width="1600" height="900" alt="dashboard_braking" src="https://github.com/user-attachments/assets/18378363-96ea-4d9f-bb84-305f5490c34a" />
+<img width="602" height="255" alt="block_diagram" src="https://github.com/user-attachments/assets/ed583a41-e167-4b0f-8e17-46166a2e70eb" />
 
+*(Figure 1: System block diagram showing the hardware and simulation split)*
+
+<img width="1600" height="1200" alt="hardware_setup" src="https://github.com/user-attachments/assets/395069a4-d3d5-4d46-934e-01554697de67" />
+
+*(Figure 2: Physical hardware prototype with live telemetry dashboard)*
+
+### Live Telemetry Dashboard
+
+| MEASURING State | BRAKING State |
+| :---: | :---: |
+<img width="1600" height="900" alt="dashboard_measuring" src="https://github.com/user-attachments/assets/1ca1affa-cbec-4301-a546-2ea31ce3649f" />
+<img width="1600" height="900" alt="dashboard_braking" src="https://github.com/user-attachments/assets/4adb40d5-8a98-41c7-ba64-a38c35c6d006" />
+
+## 🧑‍💻 Author
+**Mivuyo Mlandu**
+BEngTech Computer Engineering — Cape Peninsula University of Technology (CPUT)
+- [LinkedIn](https://www.linkedin.com/in/mivuyo-mlandu)
+- [GitHub](https://github.com/mivuyomlandu)
 
 
