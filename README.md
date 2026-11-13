@@ -40,3 +40,24 @@ The biggest challenge was reading the motor's RPM accurately. The 12V motor gene
 3. Run the dashboard:
    ```bash
    python dashboard.py
+   
+```
+## 📸 Project Images
+
+### System Architecture & Hardware
+![Block Diagram](block_diagram.png)
+*(Figure 1: System block diagram showing the hardware and simulation split)*
+
+![Hardware Setup](hardware_setup.png)
+*(Figure 2: Physical hardware prototype with live telemetry dashboard)*
+
+### Live Telemetry Dashboard
+| MEASURING State | BRAKING State |
+| :---: | :---: |
+| ![MEASURING](dashboard_measuring.png) | ![BRAKING](dashboard_braking.png) |
+
+## 🧑‍💻 Author
+**Mivuyo Mlandu**
+BEngTech Computer Engineering — Cape Peninsula University of Technology (CPUT)
+- [LinkedIn](https://www.linkedin.com/in/mivuyo-mlandu)
+- [GitHub](https://github.com/mivuyomlandu)
