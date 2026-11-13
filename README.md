@@ -51,12 +51,6 @@ The biggest challenge was reading the motor's RPM accurately. The 12V motor gene
 
 <img width="1600" height="900" alt="dashboard_braking" src="https://github.com/user-attachments/assets/0f66905a-0388-4b6f-9d78-cea135755d58" />
 
-
-### Live Telemetry Dashboard
-| MEASURING State | BRAKING State |
-| :---: | :---: |
-| ![MEASURING](dashboard_measuring.jpg) | ![BRAKING](dashboard_braking.jpg) ||
-
 ## 🧑‍💻 Author
 **Mivuyo Mlandu**
 BEngTech Computer Engineering — Cape Peninsula University of Technology (CPUT)
