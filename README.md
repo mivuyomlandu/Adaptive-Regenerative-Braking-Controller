@@ -62,7 +62,7 @@ The biggest challenge was reading the motor's RPM accurately. The 12V motor gene
 ## 🧑‍💻 Author
 **Mivuyo Mlandu**
 BEngTech Computer Engineering — Cape Peninsula University of Technology (CPUT)
-- - LinkedIn: [Mivuyo Mlandu](https://www.linkedin.com/in/mivuyo-mlandu-a748a5416/)
+- LinkedIn: [Mivuyo Mlandu](https://www.linkedin.com/in/mivuyo-mlandu-a748a5416/)
 - [GitHub](https://github.com/mivuyomlandu)
 
 
