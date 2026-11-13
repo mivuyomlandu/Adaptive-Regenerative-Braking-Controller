@@ -45,16 +45,16 @@ The biggest challenge was reading the motor's RPM accurately. The 12V motor gene
 ## 📸 Project Images
 
 ### System Architecture & Hardware
-![Block Diagram](block_diagram.png)
+![Block Diagram](block_diagram.jpeg)
 *(Figure 1: System block diagram showing the hardware and simulation split)*
 
-![Hardware Setup](hardware_setup.png)
+![Hardware Setup](hardware_setup.jpeg)
 *(Figure 2: Physical hardware prototype with live telemetry dashboard)*
 
 ### Live Telemetry Dashboard
 | MEASURING State | BRAKING State |
 | :---: | :---: |
-| ![MEASURING](dashboard_measuring.png) | ![BRAKING](dashboard_braking.png) |
+| ![MEASURING](dashboard_measuring.jpeg) | ![BRAKING](dashboard_braking.jpeg) |
 
 ## 🧑‍💻 Author
 **Mivuyo Mlandu**
